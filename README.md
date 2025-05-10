@@ -1,5 +1,8 @@
-#🚗 Car-showroom-Flask-FullStack  
+# 🚗 Car-showroom-Flask-FullStack  
+
 A modern web-based application designed to streamline vehicle listings, test drive scheduling, and customer inquiries for car, bike, and 3-wheeler showroom businesses.
+
+---
 
 ## 📌 Project Overview
 
@@ -20,13 +23,13 @@ The Vehicle Listings and Inquiry Management System is a full-stack solution buil
 
 ## 🧱 Tech Stack
 
-| Layer        | Technology              |
-|--------------|--------------------------|
-| Frontend     | ReactJS, HTML, CSS, JavaScript |
-| Backend      | Python Flask             |
-| Database     | MySQL (BCNF Normalized)  |
-| Deployment   | Cloud Hosting (AWS/Azure) |
-| UI Framework | Bootstrap                |
+| Layer        | Technology                    |
+|--------------|-------------------------------|
+| Frontend     | ReactJS, HTML, CSS, JavaScript|
+| Backend      | Python Flask                  |
+| Database     | MySQL (BCNF Normalized)       |
+| Deployment   | Cloud Hosting (AWS/Azure)     |
+| UI Framework | Bootstrap                     |
 
 ---
 
@@ -63,11 +66,19 @@ The Vehicle Listings and Inquiry Management System is a full-stack solution buil
 - MySQL Server
 
 ### Backend Setup (Flask)
-```bash
 cd backend
 pip install -r requirements.txt
 python app.py
 
-This project is licensed under the [MIT License](LICENSE).
-© 2025 Muhammad Muhib Siddiqui  
 
+---
+
+## 📄 License
+
+### MIT License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software with proper attribution.
+
+---
+
+**Muhammad Muhib Siddiqui** © 2025 
